@@ -1,4 +1,6 @@
-## Installation Instructions
+Try the code online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dkozel/JupyterNotebookTemplate/main?labpath=Matplotlib%20Examples.ipynb)
+
+## Local Setup Instructions
 
 Install [Visual Studio Code](https://code.visualstudio.com/)
 
