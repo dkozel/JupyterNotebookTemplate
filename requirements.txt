@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+numpy
+
+# Additional modules to support RF and Electronics
+scikit-rf
+schemdraw

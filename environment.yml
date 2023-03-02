@@ -1,0 +1,11 @@
+name: jupyter-notebooks
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel
+  - matplotlib
+  - numpy
+  - scikit-rf
+  - schemdraw
